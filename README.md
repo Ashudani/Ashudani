@@ -1,12 +1,15 @@
-# Hi there! 👋  
-I am a **Tech Enthusiast** and a CS student.  
+# Hey there! 👋  
 
-### 💻 Programming Skills  
-- **C++ | SQL**  
+I'm Asim, a **tech enthusiast** and a CS student who loves to solve problems and build things that matter.  
 
-### 🚀 About Me  
-- Passionate about problem-solving and building scalable solutions.  
+## 💻 Programming Skills  
+- C++  
+- SQL  
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://linkedin.com/in/asim-ali-abbas-9033a62a3)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/asim_ali_abbas_10)  
+## 🚀 About Me  
+I enjoy working on projects that challenge me and help me grow as a developer. Always exploring new technologies and improving my skills.  
+
+## 📫 Connect with Me  
+- **LinkedIn:** [Asim Ali Abbas](http://linkedin.com/in/asim-ali-abbas-9033a62a3)  
+- **Instagram:** [@asim_ali_abbas_10](https://instagram.com/asim_ali_abbas_10)  
+
